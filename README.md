@@ -1,4 +1,4 @@
-<p align="center"><h1 align="center">𝑯𝒆𝒍𝒍𝒐 𝑰'𝒎 𝑺𝒓𝒊𝒏𝒊𝒗𝒂𝒔𝒂𝒏 </h1>          
+<p align="center"><h1 align="center"> </h1>          
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SEENU778.SEENU778" />
 </a></p>
 
