@@ -1,9 +1,9 @@
 <p align="center"><h1 align="center">𝑯𝒆𝒍𝒍𝒐 𝑰'𝒎 𝑵𝒊𝒔𝒉𝒂𝒏𝒕𝒉𝒊  </h1>          
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Nishanthi-sugumar.Nishanthi" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Nishanthi-sugumar.Nishanthi_s" />
 </a></p>
 
 <p align="center">
-  <!-- Typing SVG by Nishanthi-sugumar- https://github.com/.Nishanthi/readme-typing-svg -->
+  <!-- Typing SVG by Nishanthi-sugumar- https://github.com/.Nishanthi_s/readme-typing-svg -->
 <a href="https://github.com/Nishanthi/readme-typing-svg">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EXO+2&size=23&duration=4000&pause=1000&color=808080&center=true&vCenter=true&random=false&width=480&lines=Data+Analytics;PYTHON%2C+SQL%2C+PBI%2C+EXCEL%2C+ML;Always+Learning+New+Things" alt="Typing SVG" /></a></p><h3 align="left"> 
 </a>
