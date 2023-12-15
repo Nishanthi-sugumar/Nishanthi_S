@@ -1,6 +1,5 @@
 <p align="center"><h1 align="center">𝑯𝒆𝒍𝒍𝒐 𝑰'𝒎 𝑵𝒊𝒔𝒉𝒂𝒏𝒕𝒉𝒊  </h1>          
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Nishanthi_S.Nishanthi_S
-" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Nishanthi_S.Nishanthi_S" />
 </a></p>
 
 <p align="center">
